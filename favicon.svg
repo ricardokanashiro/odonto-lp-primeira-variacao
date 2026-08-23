@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Forma">
+  <rect width="128" height="128" rx="28" fill="#1A1A1A"/>
+  <g transform="translate(20.21 23.25) scale(0.6083)">
+    <rect width="144" height="14" fill="#FFFFFF"/>
+    <rect width="13" height="134" fill="#FFFFFF"/>
+    <rect x="131" width="13" height="63" fill="#FFFFFF"/>
+    <rect y="121" width="55" height="13" fill="#FFFFFF"/>
+    <path fill="#F16522" d="M74 85h70v49h-14V99H74z"/>
+  </g>
+</svg>
